@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richardroach-ux
+- 👋 Hi, I’m Richard W.
 - 👀 I’m interested in learning web development as well as growing my professional network.
 - 🌱 I’m currently learning both web development and design; as well as studying in two diplomas concurrently in this as well as UX/UI design.
 - 💞️ I’m looking to collaborate on ...
